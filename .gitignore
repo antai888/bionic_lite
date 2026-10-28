@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+gateway_console.txt
+gateway_err.txt
+
