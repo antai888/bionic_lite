@@ -1,6 +1,6 @@
 # Bionic Lite 使用手册
 
-基于对 Bionic 1.1.8（LM Studio 品牌包装，Electron + llama.cpp）逆向分析实现的轻量克隆：本地 LLM 多后端智能调度网关。零第三方依赖，仅 Python 标准库。
+基于对 Bionic 1.1.8（LM Studio 品牌包装，Electron + llama.cpp）的轻量克隆：本地 LLM 多后端智能调度网关。零第三方依赖，仅 Python 标准库。
 
 - 统一 OpenAI 兼容入口：`http://127.0.0.1:1235/v1`
 - 自动调用本地已下载模型（Bionic/LM Studio 模型库）
